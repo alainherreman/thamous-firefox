@@ -4,7 +4,7 @@
 
 Télécharger ce fichier :
 
-- `thamous-firefox-extension-0.2.0-signed.xpi`
+- `thamous-firefox-extension-0.2.2-signed.xpi`
 
 ## Installation dans Firefox
 
@@ -23,6 +23,4 @@ Elle permet, depuis Firefox, d’importer plus facilement dans Thamous :
 
 ## Important
 
-Pour **importer toutes les références**, il faut d’abord avoir **sélectionné un modèle LLM** dans Thamous.
-
-Si aucun modèle n’est sélectionné, l’extension l’indique et permet d’ouvrir directement la fenêtre où choisir ce modèle.
+Pour fonctionner correctement, l’extension a besoin qu’un modèle LLM ait été sélectionné au préalable dans l’extension elle-même.
