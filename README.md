@@ -4,7 +4,7 @@
 
 Télécharger ce fichier :
 
-- `thamous-firefox-extension-0.2.2-signed.xpi`
+- `thamous-firefox-extension-0.2.3-signed.xpi`
 
 ## Installation dans Firefox
 
